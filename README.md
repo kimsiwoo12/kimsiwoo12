@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimsiwoo12
--  Here is a github for my projects.
+-  this github is only for a project of Hanseo Univ.
 
 
 # current project
