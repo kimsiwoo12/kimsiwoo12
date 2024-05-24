@@ -3,11 +3,11 @@
 
 
 # current project
-### 방송인 통합 정보 제공 플렛폼(가명)
+### 방송인 통합 정보 제공 플렛폼(MOABA_)
 
 ```mermaid
 gantt
-    title 방송인 통합 정보 제공 플렛폼
+    title MOABA
     dateFormat  YYYY-MM-DD
 
     section ALL
